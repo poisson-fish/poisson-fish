@@ -1,17 +1,21 @@
 ### Hi there 👋
 
-[![poisson-fishies GitHub stats](https://github-readme-stats.vercel.app/api?username=poisson-fish)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**poisson-fish/poisson-fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=poisson-fish&count_private=true&show_icons=true&text_color=03abd4&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poisson-fish&layout=compact&langs_count=10&text_color=03abd4&bg_color=00000000&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width="865" src="https://github-profile-trophy.vercel.app/?username=poisson-fish&theme=algolia&column=7&no-bg=true&no-frame=true" />
+</a>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=poisson-fish&style=flat-square">
